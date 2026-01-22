@@ -90,5 +90,5 @@ MIT License - feel free to use these projects for learning and portfolio buildin
 
 ---
 
-**Author**: Chris Pineoluoch  
+**Author**: Chrispine Oluoch  
 **Last Updated**: January 2026
